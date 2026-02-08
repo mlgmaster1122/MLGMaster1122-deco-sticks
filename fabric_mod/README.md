@@ -1,7 +1,5 @@
 # Decorative Sticks - Fabric Mod for Minecraft 1.21.1
 
-**Converted from Bedrock Edition addon by Silzio**
-
 ## Overview
 This Fabric mod adds **256 decorative stick blocks** to Minecraft Java Edition 1.21.1. Perfect for detailed builds, structural accents, and creative detailing!
 
