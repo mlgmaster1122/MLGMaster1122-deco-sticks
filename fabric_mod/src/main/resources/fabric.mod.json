@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "decorative_sticks",
+  "version": "1.0.0",
+  "name": "Decorative Sticks",
+  "description": "Adds decorative stick blocks in various colors and orientations",
+  "authors": [
+    "Converted from Bedrock"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/decorative_sticks/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.decorativesticks.DecorativeSticks"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.21",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
